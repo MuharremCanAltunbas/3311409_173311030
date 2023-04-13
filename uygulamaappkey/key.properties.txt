@@ -1,0 +1,4 @@
+storePassword=Deneme1234.
+keyPassword=Deneme1234.
+keyAlias=upload
+storeFile=C:/Users/Dell/waterlyappkey/upload-keystore.jks
